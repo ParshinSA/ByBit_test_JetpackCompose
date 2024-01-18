@@ -1,4 +1,4 @@
-package com.example.bybit_test_project.ui.theme
+package com.example.bybit_test_project.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

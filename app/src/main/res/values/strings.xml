@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ByBit_test_project</string>
+    <string name="app_name" translatable="false">ByBit_test_project</string>
+    <string name="announcements">Announcements</string>
+    <string name="more_details">More details</string>
+    <string name="up">up</string>
+    <string name="error">error</string>
+    <string name="no_content">No content\n</string>
 </resources>
